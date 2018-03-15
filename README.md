@@ -13,6 +13,17 @@
 ```
 $ git help
 ```
- 
+
+### 抛弃本地所有的修改，回到远程仓库的状态。
+
+```
+$ git fetch --all && git reset --hard origin/master
+```
+
+
+
+
+
+
 
 
