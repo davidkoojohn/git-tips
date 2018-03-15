@@ -20,6 +20,19 @@ $ git help
 $ git fetch --all && git reset --hard origin/master
 ```
 
+### 关联远程分支
+
+关联之后，git branch -vv就可以展示关联的远程分支名了，同时推送到远程仓库直接：git push，不需要指定远程仓库了。
+
+```
+$ git branch -u origin/mybranch
+```
+或者在push时加上-u参数
+
+```
+$ git push origin/mybranch -u
+```
+
 
 
 
