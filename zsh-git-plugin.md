@@ -122,4 +122,4 @@
 
 ## 参考
 
-* [git](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git) 
+* [The git Plugin](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git) 
