@@ -1,4 +1,6 @@
 # git-tips
+
+> [使用 `zsh` shell, Git 命令](./zsh-git-plugin.md)
  
 ## 概念: 
     
